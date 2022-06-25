@@ -41,7 +41,8 @@
 </details>
 
 
-7T 데이터.ipynb 는 데이터를 다운로드 하는 과정이 들어있는 파일입니다.
-4layers와 10layers 폴더는 각각의 extracted_region 별로 Region Extraction, CRUISE, Volumetric layering의 과정이 정리된 파일들이 들어있습니다.
-이 때, 4layers는 Volumetric layering의 layer 수가 4개, 10layers는 10개로 layer수의 차이를 비교하기 위해 
+7T 데이터.ipynb 는 데이터를 다운로드 하는 과정이 들어있는 파일입니다.<br>
+4layers와 10layers 폴더는 각각의 extracted_region 별로 Region Extraction, CRUISE, Volumetric layering의 과정이 정리된 파일들이 들어있습니다.<br>
+이 때, 4layers는 Volumetric layering의 layer 수가 4개, 10layers는 10개로 layer수의 차이를 비교하기 위해 수행되었습니다.
+
 
